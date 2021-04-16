@@ -1,0 +1,12 @@
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week4\GestioneOrdini\GestioneOrdini.EF\bin\Debug\netstandard2.0\GestioneOrdini.dll
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week4\GestioneOrdini\GestioneOrdini.EF\obj\Debug\netstandard2.0\GestioneOrdini.EF.csprojAssemblyReference.cache
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week4\GestioneOrdini\GestioneOrdini.EF\obj\Debug\netstandard2.0\GestioneOrdini.EF.AssemblyInfoInputs.cache
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week4\GestioneOrdini\GestioneOrdini.EF\obj\Debug\netstandard2.0\GestioneOrdini.EF.AssemblyInfo.cs
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week4\GestioneOrdini\GestioneOrdini.EF\bin\Debug\netstandard2.0\GestioneOrdini.EF.deps.json
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week4\GestioneOrdini\GestioneOrdini.EF\bin\Debug\netstandard2.0\GestioneOrdini.EF.dll
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week4\GestioneOrdini\GestioneOrdini.EF\bin\Debug\netstandard2.0\GestioneOrdini.EF.pdb
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week4\GestioneOrdini\GestioneOrdini.EF\bin\Debug\netstandard2.0\GestioneOrdini.pdb
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week4\GestioneOrdini\GestioneOrdini.EF\obj\Debug\netstandard2.0\GestioneOrdini.EF.csproj.CoreCompileInputs.cache
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week4\GestioneOrdini\GestioneOrdini.EF\obj\Debug\netstandard2.0\GestioneOrdini.EF.csproj.CopyComplete
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week4\GestioneOrdini\GestioneOrdini.EF\obj\Debug\netstandard2.0\GestioneOrdini.EF.dll
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week4\GestioneOrdini\GestioneOrdini.EF\obj\Debug\netstandard2.0\GestioneOrdini.EF.pdb

@@ -1,0 +1,9 @@
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week4\GestioneOrdini\GestioneOrdini\bin\Debug\netstandard2.0\GestioneOrdini.deps.json
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week4\GestioneOrdini\GestioneOrdini\bin\Debug\netstandard2.0\GestioneOrdini.dll
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week4\GestioneOrdini\GestioneOrdini\bin\Debug\netstandard2.0\GestioneOrdini.pdb
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week4\GestioneOrdini\GestioneOrdini\obj\Debug\netstandard2.0\GestioneOrdini.csprojAssemblyReference.cache
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week4\GestioneOrdini\GestioneOrdini\obj\Debug\netstandard2.0\GestioneOrdini.AssemblyInfoInputs.cache
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week4\GestioneOrdini\GestioneOrdini\obj\Debug\netstandard2.0\GestioneOrdini.AssemblyInfo.cs
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week4\GestioneOrdini\GestioneOrdini\obj\Debug\netstandard2.0\GestioneOrdini.csproj.CoreCompileInputs.cache
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week4\GestioneOrdini\GestioneOrdini\obj\Debug\netstandard2.0\GestioneOrdini.dll
+C:\Users\maria.chiara.colla\Documents\EsamiAccademy\week4\GestioneOrdini\GestioneOrdini\obj\Debug\netstandard2.0\GestioneOrdini.pdb

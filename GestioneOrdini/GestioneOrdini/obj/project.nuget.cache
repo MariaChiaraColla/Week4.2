@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0ReijcbRIxXUZ48jJV9renaLCpUQMOeYStYBmqtC+5T2K61GqMk3+ygyrLyvHisAkSJST/Vb+dNn8uFe3UAxKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maria.chiara.colla\\Documents\\EsamiAccademy\\week4\\GestioneOrdini\\GestioneOrdini\\GestioneOrdini.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maria.chiara.colla\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\maria.chiara.colla\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
